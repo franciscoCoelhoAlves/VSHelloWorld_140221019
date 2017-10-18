@@ -14,6 +14,7 @@ namespace VSHelloWorld_14022019
     {
         public static void Main(string[] args)
         {
+            //Comentaário de Teste
             BuildWebHost(args).Run();
         }
 
